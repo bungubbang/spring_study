@@ -1,4 +1,6 @@
 spring_study
 ============
 
-김영한 매니져님 스프링 스터디
+* Day1
+    - Main - Client - Log 를 잊는 프로그램 제작
+    - SOILD원칙
